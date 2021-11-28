@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671774157417",
+    "project_id": "fir-practica5",
+    "storage_bucket": "fir-practica5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671774157417:android:bba2d317f5b5228bc250f8",
+        "android_client_info": {
+          "package_name": "com.example.practica_5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671774157417-06ua8q0js9hnla40f5jf9hm5lp1f6fad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHAmXSslEmgoX3VTEFq-dRUxSx3Z6sx1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671774157417-06ua8q0js9hnla40f5jf9hm5lp1f6fad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
